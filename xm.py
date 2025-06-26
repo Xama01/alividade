@@ -1,4 +1,3 @@
-# alividade
 class Viagem:
     def __init__(self, nome_viajante, destino):
         self.nome_viajante = nome_viajante
